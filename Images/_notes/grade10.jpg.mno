@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="dw_new_image_map" value="&lt;MAP name=&quot;m_grade10&quot;&gt;&#xD;    &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;77,63,204,100&quot; HREF=&quot;#ecology&quot; ALT=&quot;&quot; &gt;&#xD;    &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;41,329,197,370&quot; HREF=&quot;#chemistry&quot; ALT=&quot;&quot; &gt;&#xD;    &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;443,392,565,429&quot; HREF=&quot;#motion&quot; ALT=&quot;&quot; &gt;&#xD;    &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;482,94,632,136&quot; HREF=&quot;#weather&quot; ALT=&quot;&quot; &gt;&#xD;  &lt;/MAP&gt;" />
+</info>
