@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="D2L_10489" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:scorm_1p2="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2">
+    <organizations default="d2l_orgs">
+        <organization identifier="d2l_org">
+            <item identifier="110462" identifierref="RES_CONTENT_110462" d2l_2p0:id="1">
+                <metadata>
+                    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+                        <general>
+                            <title>
+                                <langstring>SBI4U: Unit 1: Activity 4: Food and Enzymes (Series Title: SBI4U: Unit 1: Biochemistry)</langstring>
+                            </title>
+                            <catalogentry>
+                                <catalog>Ontario Education Portal</catalog>
+                                <entry>
+                                    <langstring>1238460000</langstring>
+                                </entry>
+                            </catalogentry>
+                            <language>en-ca</language>
+                            <description>
+                                <langstring>Resource Bank ID: ELO1238460 -  In this activity, students will examine a very important class of molecules called enzymes.  They will study how they work as biological catalysts.  Students will also have the opportunity to see how enzymes are important in foods.</langstring>
+                            </description>
+                            <keyword>
+                                <langstring>enzyme</langstring>
+                            </keyword>
+                            <keyword>
+                                <langstring>catalyst</langstring>
+                            </keyword>
+                            <keyword>
+                                <langstring>Lock-Key Theory</langstring>
+                            </keyword>
+                            <keyword>
+                                <langstring>allosteric regulation</langstring>
+                            </keyword>
+                            <keyword>
+                                <langstring>exergonic and endergonic reactions</langstring>
+                            </keyword>
+                            <keyword>
+                                <langstring>proteins</langstring>
+                            </keyword>
+                            <keyword>
+                                <langstring>inhibition</langstring>
+                            </keyword>
+                        </general>
+                        <lifecycle>
+                            <contribute>
+                                <role>
+                                    <value>
+                                        <langstring>Author</langstring>
+                                    </value>
+                                </role>
+                                <centity>
+                                    <vcard><![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:e-LO
+N:e-LO;e-LO;;;;
+ORG:e-Learning Ontario
+END:vCard]]></vcard>
+                                </centity>
+                            </contribute>
+                        </lifecycle>
+                        <metametadata>
+                            <catalogentry>
+                                <catalog>Ontario Education Portal</catalog>
+                                <entry>
+                                    <langstring>1238460000</langstring>
+                                </entry>
+                            </catalogentry>
+                            <contribute>
+                                <role>
+                                    <value>
+                                        <langstring>validator</langstring>
+                                    </value>
+                                </role>
+                                <centity>
+                                    <vcard><![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:Lewin, Ellie
+N:Ellie;Lewin,;;;;
+END:vCard]]></vcard>
+                                </centity>
+                            </contribute>
+                            <contribute>
+                                <role>
+                                    <value>
+                                        <langstring>creator</langstring>
+                                    </value>
+                                </role>
+                                <centity>
+                                    <vcard><![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:Bill, Urs
+N:Urs;Bill,;;;;
+END:vCard]]></vcard>
+                                </centity>
+                            </contribute>
+                            <metadatascheme>OnCorev1.0</metadatascheme>
+                            <language>en</language>
+                        </metametadata>
+                        <technical>
+                            <size>2881153</size>
+                        </technical>
+                        <educational>
+                            <learningresourcetype>
+                                <value>
+                                    <langstring>experiment</langstring>
+                                </value>
+                            </learningresourcetype>
+                            <learningresourcetype>
+                                <value>
+                                    <langstring>lesson</langstring>
+                                </value>
+                            </learningresourcetype>
+                            <language>en</language>
+                        </educational>
+                        <classification>
+                            <purpose>
+                                <value>
+                                    <langstring>educational objective</langstring>
+                                </value>
+                            </purpose>
+                            <taxonpath>
+                                <source>
+                                    <langstring>Ontario Curriculum</langstring>
+                                </source>
+                                <taxon>
+                                    <taxon>
+                                        <taxon>
+                                            <taxon>
+                                                <taxon>
+                                                    <id>BCV.02</id>
+                                                    <entry>
+                                                        <langstring>B2. investigate the chemical structures, functions, and chemical properties of biological molecules involved in some common cellular processes and biochemical reactions;</langstring>
+                                                    </entry>
+                                                </taxon>
+                                                <entry>
+                                                    <langstring>B. Biochemistry</langstring>
+                                                </entry>
+                                            </taxon>
+                                            <entry>
+                                                <langstring>SBI 4U: Biology(University)</langstring>
+                                            </entry>
+                                        </taxon>
+                                        <entry>
+                                            <langstring>12</langstring>
+                                        </entry>
+                                    </taxon>
+                                    <entry>
+                                        <langstring>English</langstring>
+                                    </entry>
+                                </taxon>
+                            </taxonpath>
+                            <taxonpath>
+                                <source>
+                                    <langstring>Ontario Curriculum</langstring>
+                                </source>
+                                <taxon>
+                                    <taxon>
+                                        <taxon>
+                                            <taxon>
+                                                <taxon>
+                                                    <id>BCV.03</id>
+                                                    <entry>
+                                                        <langstring>B3. demonstrate an understanding of the structures and functions of biological molecules, and the biochemical reactions required to maintain normal cellular function.</langstring>
+                                                    </entry>
+                                                </taxon>
+                                                <entry>
+                                                    <langstring>B. Biochemistry</langstring>
+                                                </entry>
+                                            </taxon>
+                                            <entry>
+                                                <langstring>SBI 4U: Biology(University)</langstring>
+                                            </entry>
+                                        </taxon>
+                                        <entry>
+                                            <langstring>12</langstring>
+                                        </entry>
+                                    </taxon>
+                                    <entry>
+                                        <langstring>English</langstring>
+                                    </entry>
+                                </taxon>
+                            </taxonpath>
+                            <taxonpath>
+                                <source>
+                                    <langstring>Ontario Curriculum</langstring>
+                                </source>
+                                <taxon>
+                                    <taxon>
+                                        <taxon>
+                                            <taxon>
+                                                <taxon>
+                                                    <id>SIV.01</id>
+                                                    <entry>
+                                                        <langstring>A1. demonstrate scientific investigation skills (related to both inquiry and research) in the four areas of skills (initiating and planning, performing and recording, analysing and interpreting, and communicating);</langstring>
+                                                    </entry>
+                                                </taxon>
+                                                <entry>
+                                                    <langstring>A. Scientific Investigation Skills and Career Exploration</langstring>
+                                                </entry>
+                                            </taxon>
+                                            <entry>
+                                                <langstring>SBI 4U: Biology(University)</langstring>
+                                            </entry>
+                                        </taxon>
+                                        <entry>
+                                            <langstring>12</langstring>
+                                        </entry>
+                                    </taxon>
+                                    <entry>
+                                        <langstring>English</langstring>
+                                    </entry>
+                                </taxon>
+                            </taxonpath>
+                        </classification>
+                        <classification>
+                            <purpose>
+                                <value>
+                                    <langstring>educational level</langstring>
+                                </value>
+                            </purpose>
+                            <taxonpath>
+                                <source>
+                                    <langstring>Ontario Grades</langstring>
+                                </source>
+                                <taxon>
+                                    <entry>
+                                        <langstring>12</langstring>
+                                    </entry>
+                                </taxon>
+                            </taxonpath>
+                        </classification>
+                        <classification>
+                            <purpose>
+                                <value>
+                                    <langstring>idea</langstring>
+                                </value>
+                            </purpose>
+                            <taxonpath>
+                                <source>
+                                    <langstring>GoC</langstring>
+                                </source>
+                                <taxon>
+                                    <taxon>
+                                        <entry>
+                                            <langstring>Secondary education</langstring>
+                                        </entry>
+                                    </taxon>
+                                    <entry>
+                                        <langstring>Biochemistry</langstring>
+                                    </entry>
+                                </taxon>
+                            </taxonpath>
+                            <taxonpath>
+                                <source>
+                                    <langstring>LCSH</langstring>
+                                </source>
+                                <taxon>
+                                    <entry>
+                                        <langstring>Biochemistry--Study and teaching (Secondary)--Ontario</langstring>
+                                    </entry>
+                                </taxon>
+                            </taxonpath>
+                        </classification>
+                    </lom>
+                </metadata>
+                <title>SBI4U: Unit 1: Activity 4: Food and Enzymes (Series Title: SBI4U: Unit 1: Biochemistry)</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="RES_CONTENT_110462" title="" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="SBI4UPU01A04\overview.html" />
+    </resources>
+</manifest>
